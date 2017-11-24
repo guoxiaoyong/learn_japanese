@@ -27,10 +27,10 @@ function animateTime() {
   var minutes = timeNow.getMinutes();
   var seconds = 0; //timeNow.getSeconds();
 
-  //hours = random_hour();
-  //minutes = random_min();
-  hours = 4;
-  minutes = 40;
+  hours = random_hour();
+  minutes = random_min();
+  //hours = 4;
+  //minutes = 40;
 
   //Move second needle halfway
   second.transform('r' + (seconds*6-3) + ',200,200');
