@@ -1,0 +1,46 @@
+Rembrandt Watercolour 24
+
+207 Cadmium Yellow Lemon镉黄柠檬
+209 Cadmium Yellow Light浅镉黄
+210 Cadmium Yellow Deep深镉黄
+211 Cadmium Orange镉橙
+227 Yellow Ochre土黄
+238 Gamboge藤黄
+303 Cadmium Red Light浅镉红
+306 Cadmium Red Deep深镉红
+336 Permanent Madder Lake永固深茜红
+366 Quinacridone Rose永固玫瑰红
+408 Raw Umber生褐
+409 Burnt Umber熟褐
+411 Burnt Sienna赭石
+416 Sepia深褐/乌贼墨
+506 Ultramarine Deep群青
+508 Prussian Blue普鲁士蓝
+511 Cobalt Blue钴蓝
+532 Mauve紫罗兰
+534 Cerulean Blue蔚蓝
+616 Viridian翠绿
+623 Sap Green暗绿
+645 Hooker Green Deep墨绿/胡克绿
+662 Permanent Green永固绿
+708 Payne’s Grey培恩灰
+
+
+102 white  (add)
+104 titanium white
+215 lemon yellow
+227 yellow mid
+315 crimson red
+324 vermilion
+336 rose
+402 mauve 紫罗兰
+443 ultramarine blue
+445 prussian blue
+455 cerulean blue 湖蓝 (add)
+503 green pale 淡绿 (add)
+506 sap green
+560 viridian
+676 yellow ochre
+684 burnt sienna
+687 burnt umber
+794 lamp black
