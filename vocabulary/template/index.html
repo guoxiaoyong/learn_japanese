@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>Japanese Words</title>
+<style type="text/css">
+div {
+  border: 1px solid red;
+  padding: 20px;
+  font-size: 300%;
+}
+</style>
+</head>
+
+<body>
+
+{% for word in words %}
+<div>
+<span class="jp">{{word[0]}}</span> <br>
+<span class="meaning">{{word[1]}}</span>
+</div>
+{% end %}
+
+</body>
+</html>
