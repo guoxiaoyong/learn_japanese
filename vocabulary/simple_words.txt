@@ -1,6 +1,6 @@
 あき 秋
 あつい 暑い
-いえ　house
+いえ house
 いぬ 犬
 うさぎ rabit
 うるさい noisy
@@ -68,20 +68,20 @@
 よる 夜
 らくだ 駱駝
 らっかせい 落花生
-りんご　apple
+りんご apple
 れいぞうこ 冷蔵庫
 ろうそく candle
 わに crocodile
-イルカ
-カナダ
-コーヒー
+イルカ dolphin
+カナダ Canada
+コーヒー coffee
 コーラ 可乐
-サンドイッチ
+サンドイッチ sandwich
 スイカ watermelon
-ヌートリア
+ヌートリア 海狸鼠, Nutria
 ハローキテイ HelloKitty
 ペン pen
-ホワイトハウス
+ホワイトハウス white house
 モントリオール Montreal
 ラジオ radio
-レコー record,唱片
+レコー record, 唱片
