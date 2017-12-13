@@ -1,0 +1,53 @@
+@page {
+  size: A4;
+  margin: 0;
+}
+
+@media screen {
+  html {
+    background-color: #e6e6ff;
+  }
+
+  body {
+    width: 21cm;
+    border: 1px solid #bbbbbb;
+  }
+}
+
+body {
+  padding: 2em;
+  background-color: white;
+  margin: 0 auto;
+}
+
+h1, h2 {
+  font-family: sans-serif;
+}
+
+h1 {
+  padding: 0.4em;
+  border-bottom: 4px solid #ffcc66;
+  text-align: center;
+}
+
+h1 + p {
+  text-align: center;
+  font-size: 120%;
+}
+
+div.signature div {
+  text-align: right;
+  border-top: 1px black solid;
+  width: 5cm;
+  padding: 2px;
+  margin-top: 3em;
+  margin-left: 70%;
+}
+
+ol li {
+  padding: .5em;
+}
+
+img {
+  width: 1.5cm;
+}
